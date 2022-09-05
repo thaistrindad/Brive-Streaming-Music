@@ -6,10 +6,9 @@ Brive é um projeto focado em te dar a melhor experiencia com musica
 ## Deploy
 
 Para acessar o projeto na web
+  
+- [Brive Web](https://brive-streaming-music.vercel.app)
 
-```bash
-  npm run deploy
-```
 
 
 ## Funcionalidades
