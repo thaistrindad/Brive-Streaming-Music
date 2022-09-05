@@ -8,7 +8,8 @@ Brive é um projeto focado em te dar a melhor experiencia com musica
 Para acessar o projeto na web
 
 ```
-  https://brive-streaming-music.vercel.app
+  
+  [Brive Web](https://brive-streaming-music.vercel.app)
 ```
 
 
