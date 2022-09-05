@@ -1,0 +1,20 @@
+{
+  "name": "brive",
+  "version": "1.0.0",
+  "description": "Brive é um projeto focado em te dar a melhor experiencia com musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xuan002/Brive-Streaming-Music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xuan002/Brive-Streaming-Music/issues"
+  },
+  "homepage": "https://github.com/Xuan002/Brive-Streaming-Music#readme"
+}
