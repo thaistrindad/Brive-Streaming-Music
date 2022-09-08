@@ -27,4 +27,5 @@ Insira um gif ou um link de alguma demonstração
 ## Autores
 
 - [@Juan Machado](https://www.github.com/Xuan002)
+- [@Thais Trindade] (https://www.github.com/thaistrindad)
 
